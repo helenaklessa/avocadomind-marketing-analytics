@@ -6,6 +6,8 @@ The goal of the project is to move beyond descriptive reporting and turn campaig
 
 > **Portfolio note:** the dataset used in this project is synthetic and was created for analytical and portfolio purposes. No confidential or company data is included.
 
+![AvocadoMind dashboard home page](images/01_home_page.png)
+
 ---
 
 ## Project overview
@@ -28,6 +30,8 @@ The report was designed to answer six core business questions:
 ### 1. Overall Performance
 Executive overview of marketing results and performance trends.
 
+![Overall Performance](images/02_overall_performance.png)
+
 Key elements include:
 - Total Revenue
 - ROAS
@@ -40,6 +44,8 @@ Key elements include:
 ### 2. Campaign Performance
 Campaign-level analysis combining financial return and conversion performance.
 
+![Campaign Performance](images/03_campaig_performance.png)
+
 The page includes:
 - ROAS by Campaign Type
 - Campaign Prioritization Matrix
@@ -48,6 +54,8 @@ The page includes:
 
 ### 3. Audience Preferences
 Analysis of how different audience segments engage and convert.
+
+![Audience Preferences](images/04_audience_preferences.png)
 
 The page includes:
 - Engagement Score by Audience
@@ -59,6 +67,8 @@ The page includes:
 ### 4. Channel Effectiveness
 Comparison of channel performance from both scale and efficiency perspectives.
 
+![Channel Effectiveness](images/05_channel_effectivness.png)
+
 The page includes:
 - Conversions and ROAS by Channel
 - Traffic vs Conversion Volume
@@ -68,6 +78,8 @@ The page includes:
 ### 5. Regional Performance
 Geographical analysis of marketing effectiveness across Polish regions.
 
+![Regional Performance](images/06_regiona_performance.png)
+
 The page includes:
 - Conversion volume by Region
 - ROAS by Region
@@ -76,6 +88,8 @@ The page includes:
 
 ### 6. Budget Allocation
 Decision-support layer translating performance into budget recommendations.
+
+![Budget Allocation](images/07_budget_allocation.png)
 
 The page includes:
 - Investment Score matrix for Channel × Campaign Type combinations
