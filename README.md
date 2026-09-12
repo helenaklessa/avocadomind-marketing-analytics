@@ -6,6 +6,8 @@ The goal of the project is to move beyond descriptive reporting and turn campaig
 
 > **Portfolio note:** the dataset used in this project is synthetic and was created for analytical and portfolio purposes. No confidential or company data is included.
 
+### [▶ View the interactive Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNTk1ZDQ2MTItYjQ5NS00Y2ViLWFjZTctMTYzZGY3MTVlNDE5IiwidCI6ImRlYjYzZTJiLTAzZTAtNDBlMC04OTUzLTM3YTkyMTYxNzc3YiJ9)
+
 ![AvocadoMind dashboard home page](images/01_home_page.png)
 
 ---
@@ -186,7 +188,11 @@ Measures are organized into dedicated measure tables for easier maintenance and 
 
 ## Interactive report
 
-A public interactive version of the Power BI report will be linked here after final publication and QA.
+The full report is available as a public interactive Power BI experience:
+
+### [▶ Open the interactive Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNTk1ZDQ2MTItYjQ5NS00Y2ViLWFjZTctMTYzZGY3MTVlNDE5IiwidCI6ImRlYjYzZTJiLTAzZTAtNDBlMC04OTUzLTM3YTkyMTYxNzc3YiJ9)
+
+Use the report navigation, period slicer, interactive visuals, drill-downs, and custom tooltips to explore the analysis.
 
 ---
 
