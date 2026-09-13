@@ -1,0 +1,6 @@
+Channel_ID,Channel,Channel_Group,Buying_Model,Description
+CH01,Search,Paid Search,CPC,Search engines / high-intent traffic
+CH02,Social Media,Paid Social,CPM/CPC,Paid placements on social platforms
+CH03,Email,Owned Media,CRM allocation,Email campaigns to the customer/prospect base
+CH04,Display,Programmatic,CPM,Banner and display advertising
+CH05,Influencer,Creator Marketing,Partnership,Paid creator/influencer activations
