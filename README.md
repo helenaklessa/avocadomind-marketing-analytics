@@ -156,6 +156,8 @@ Cuts are ranked using **Budget Reduction Priority** and capped at **60% of exist
 
 The report uses a star-schema approach with a central fact table and dedicated dimensions.
 
+![Power BI star schema data model](images/08_data_model.png)
+
 **Fact table**
 - `FactPerformanceTable`
 
@@ -200,14 +202,13 @@ Use the report navigation, period slicer, interactive visuals, drill-downs, and 
 
 ## Repository contents
 
-- `images/` — dashboard screenshots
+- `images/` — dashboard screenshots and data model diagram
 - `dax/key-measures.md` — selected DAX measures and business decision logic
 - `README.md` — project case study and documentation
 
 Planned additions:
 - synthetic sample data,
-- Power BI project file / report resources,
-- data model diagram.
+- Power BI project file / report resources.
 
 ---
 
