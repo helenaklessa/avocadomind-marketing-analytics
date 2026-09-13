@@ -1,8 +1,8 @@
 Audience_ID,Audience,Age_Band,Persona_Description
-AU01,Gen Z,18-24,Younger digital-first shoppers; trend- and social-oriented.
-AU02,Young Professionals,25-34,Working adults with medium-to-high digital purchasing frequency.
-AU03,Families,30-44,"Households focused on convenience, value and practical purchases."
-AU04,Premium Shoppers,25-54,Customers willing to pay more for quality and premium products.
-AU05,Price Sensitive,18-54,Customers strongly influenced by discounts and promotional offers.
-AU06,Tech Enthusiasts,18-44,Digitally advanced shoppers interested in technology and innovation.
-AU07,Wellness Seekers,25-54,"Customers interested in fitness, health, beauty and wellbeing."
+AU01,Trend Seekers,18-24,"Digitally active consumers attracted by trends, new products and engaging brand communication."
+AU02,Convenience Seekers,25-34,"Consumers who value simple purchasing processes, accessibility and time-saving solutions."
+AU03,Practical Buyers,30-44,"Consumers focused on functionality, reliability and making well-considered purchase decisions."
+AU04,Premium Buyers,25-54,"Consumers willing to pay more for perceived quality, brand value and premium product features."
+AU05,Deal Seekers,18-54,"Price-conscious consumers strongly motivated by discounts, promotions and perceived savings."
+AU06,Innovation Seekers,18-44,"Consumers interested in innovative products, technology and new solutions."
+AU07,Wellness-Oriented Buyers,25-54,"Consumers whose purchasing decisions are influenced by health, wellbeing, fitness and lifestyle considerations."
