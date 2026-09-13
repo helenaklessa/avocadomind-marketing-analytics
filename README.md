@@ -168,6 +168,8 @@ The report uses a star-schema approach with a central fact table and dedicated d
 
 Measures are organized into dedicated measure tables for easier maintenance and navigation.
 
+### [View selected DAX measures and decision logic](dax/key-measures.md)
+
 ---
 
 ## Tools & techniques
@@ -196,14 +198,16 @@ Use the report navigation, period slicer, interactive visuals, drill-downs, and 
 
 ---
 
-## Repository roadmap
+## Repository contents
 
-The repository will include:
-- dashboard screenshots,
-- selected DAX measures,
+- `images/` — dashboard screenshots
+- `dax/key-measures.md` — selected DAX measures and business decision logic
+- `README.md` — project case study and documentation
+
+Planned additions:
 - synthetic sample data,
 - Power BI project file / report resources,
-- documentation of the budget optimization logic.
+- data model diagram.
 
 ---
 
