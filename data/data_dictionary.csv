@@ -1,0 +1,35 @@
+Table,Field,Description,Recommended type / format,Model note
+Fact_Performance,Date,Calendar date of the daily campaign observation.,Date,FK → Dim_Date[Date]
+Fact_Performance,Campaign_ID,Campaign identifier.,Text,FK → Dim_Campaign[Campaign_ID]
+Fact_Performance,Channel_ID,Marketing channel identifier.,Text,FK → Dim_Channel[Channel_ID]
+Fact_Performance,Audience_ID,Audience segment identifier.,Text,FK → Dim_Audience[Audience_ID]
+Fact_Performance,Region_ID,Geographic market identifier.,Text,FK → Dim_Region[Region_ID]
+Fact_Performance,Impressions,Number of ad/message impressions.,Whole number,Additive KPI
+Fact_Performance,Clicks,Number of clicks.,Whole number,Use with Impressions to calculate CTR
+Fact_Performance,Conversions,Number of completed purchase conversions.,Whole number,Use with Clicks to calculate conversion rate
+Fact_Performance,New_Customers,Conversions attributed to new customers.,Whole number,Use with Spend to calculate CAC
+Fact_Performance,Spend_PLN,Marketing spend for the observation.,Currency (PLN),Additive KPI
+Fact_Performance,Revenue_PLN,Revenue attributed to conversions.,Currency (PLN),Use with Spend to calculate ROAS
+Fact_Performance,Gross_Profit_PLN,Gross profit attributed to conversions before marketing spend.,Currency (PLN),Can be used for marketing ROI
+Fact_Performance,Engagement_Score,Engagement index on a 1–10 scale.,Decimal number (2),Average rather than sum
+Dim_Campaign,Campaign_ID,Unique campaign key.,Text,PK
+Dim_Campaign,Campaign_Name,Human-readable campaign name.,Text,Dimension attribute
+Dim_Campaign,Campaign_Type,Campaign strategy/type.,Text,Dimension attribute
+Dim_Campaign,Product_Category,Promoted product category.,Text,Dimension attribute
+Dim_Campaign,Start_Date,Campaign start date.,Date,Dimension attribute
+Dim_Campaign,End_Date,Campaign end date.,Date,Dimension attribute
+Dim_Campaign,Planned_Duration_Days,Planned campaign duration.,Whole number,Dimension attribute
+Dim_Campaign,Budget_PLN,Planned total campaign budget.,Currency (PLN),Compare with actual spend
+Dim_Channel,Channel_ID,Unique channel key.,Text,PK
+Dim_Channel,Channel,Channel name.,Text,Dimension attribute
+Dim_Audience,Audience_ID,Unique audience key.,Text,PK
+Dim_Audience,Audience,Audience segment/persona.,Text,Dimension attribute
+Dim_Region,Region_ID,Unique region key.,Text,PK
+Dim_Region,Region,Voivodeship/market region.,Text,Dimension attribute
+Dim_Region,City,Primary city representing the market.,Text,Dimension attribute
+Dim_Date,Date,One row per calendar day.,Date,PK
+Dim_Date,Year,Calendar year.,Whole number,Date slicing
+Dim_Date,Quarter,Calendar quarter.,Text,Date slicing
+Dim_Date,Month_Number,Month number 1–12.,Whole number,Sort Month by Month_Number
+Dim_Date,Month,Polish month name.,Text,Date slicing
+Dim_Date,Year_Month,Year-month label.,Text,Time-series axis
