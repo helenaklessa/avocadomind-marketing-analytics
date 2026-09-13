@@ -1,0 +1,101 @@
+Campaign_ID,Campaign_Name,Campaign_Type,Product_Category,Start_Date,End_Date,Planned_Duration_Days,Budget_PLN
+C0002,Search | Fitness | Acquisition | 002,Acquisition,Fitness,2024-04-23,2024-06-01,40,222970.4
+C0009,Email | Fitness | Acquisition | 009,Acquisition,Fitness,2024-12-09,2025-01-18,41,165333.55
+C0010,Search | Electronics | Acquisition | 010,Acquisition,Electronics,2024-04-12,2024-05-22,41,286850.79
+C0019,Email | Fashion | Retargeting | 019,Retargeting,Fashion,2025-07-26,2025-08-18,24,103604.44
+C0020,Display | Beauty | Brand Awareness | 020,Brand Awareness,Beauty,2025-04-27,2025-06-01,36,91294.78
+C0022,Influencer | Beauty | Brand Awareness | 022,Brand Awareness,Beauty,2024-12-03,2025-01-16,45,365508.14
+C0023,Social Media | Fitness | Acquisition | 023,Acquisition,Fitness,2025-01-25,2025-03-03,38,126335.19
+C0024,Display | Beauty | Retargeting | 024,Retargeting,Beauty,2024-05-03,2024-05-29,27,73087.05
+C0026,Social Media | Fitness | Acquisition | 026,Acquisition,Fitness,2024-11-04,2024-12-14,41,248681.07
+C0031,Influencer | Beauty | Seasonal Promo | 031,Seasonal Promo,Beauty,2024-12-28,2025-01-15,19,183934.16
+C0032,Social Media | Electronics | Acquisition | 032,Acquisition,Electronics,2024-07-07,2024-07-21,15,59570
+C0033,Influencer | Fitness | Brand Awareness | 033,Brand Awareness,Fitness,2024-10-02,2024-11-04,34,299330.48
+C0034,Search | Fitness | Seasonal Promo | 034,Seasonal Promo,Fitness,2025-11-03,2025-12-14,42,451546.53
+C0037,Influencer | Fitness | Acquisition | 037,Acquisition,Fitness,2025-02-17,2025-03-21,33,322913.16
+C0038,Display | Electronics | Brand Awareness | 038,Brand Awareness,Electronics,2024-07-25,2024-08-25,32,108917.67
+C0039,Email | Electronics | Retargeting | 039,Retargeting,Electronics,2025-06-08,2025-07-16,39,178887.49
+C0041,Social Media | Fashion | Seasonal Promo | 041,Seasonal Promo,Fashion,2024-01-03,2024-01-21,19,74201.13
+C0043,Search | Beauty | Brand Awareness | 043,Brand Awareness,Beauty,2024-04-21,2024-05-29,39,153246.59
+C0045,Social Media | Fitness | Acquisition | 045,Acquisition,Fitness,2025-07-18,2025-08-20,34,173596.49
+C0046,Search | Home & Living | Retargeting | 046,Retargeting,Home & Living,2024-09-04,2024-10-11,38,222504.01
+C0047,Search | Electronics | Acquisition | 047,Acquisition,Electronics,2025-11-28,2025-12-24,27,239763.56
+C0052,Search | Electronics | Retargeting | 052,Retargeting,Electronics,2024-01-17,2024-02-21,36,319243.26
+C0053,Email | Fitness | Acquisition | 053,Acquisition,Fitness,2025-07-19,2025-08-05,18,82305.93
+C0056,Email | Fashion | Retargeting | 056,Retargeting,Fashion,2024-02-18,2024-03-14,26,110307.98
+C0058,Search | Fashion | Acquisition | 058,Acquisition,Fashion,2025-08-24,2025-09-16,24,148557.6
+C0062,Email | Fashion | Brand Awareness | 062,Brand Awareness,Fashion,2024-03-04,2024-04-12,40,183014.07
+C0066,Display | Beauty | Retargeting | 066,Retargeting,Beauty,2024-08-18,2024-09-17,31,82124.12
+C0067,Email | Electronics | Seasonal Promo | 067,Seasonal Promo,Electronics,2025-08-03,2025-09-16,45,204374.27
+C0070,Display | Electronics | Retargeting | 070,Retargeting,Electronics,2024-02-06,2024-02-28,23,50935.9
+C0071,Social Media | Home & Living | Seasonal Promo | 071,Seasonal Promo,Home & Living,2024-06-22,2024-08-01,41,192637.53
+C0078,Email | Fashion | Acquisition | 078,Acquisition,Fashion,2024-05-04,2024-06-09,37,161616.57
+C0079,Email | Home & Living | Product Launch | 079,Product Launch,Home & Living,2025-03-22,2025-04-21,31,134681.26
+C0081,Display | Fashion | Retargeting | 081,Retargeting,Fashion,2024-07-30,2024-08-28,30,89391.95
+C0082,Email | Fashion | Retargeting | 082,Retargeting,Fashion,2025-05-16,2025-06-25,41,197883.85
+C0083,Search | Beauty | Seasonal Promo | 083,Seasonal Promo,Beauty,2024-09-12,2024-10-13,32,289593.39
+C0085,Email | Electronics | Acquisition | 085,Acquisition,Electronics,2024-10-15,2024-11-13,30,150518.48
+C0086,Search | Electronics | Retargeting | 086,Retargeting,Electronics,2025-10-18,2025-11-26,40,486772.58
+C0088,Display | Fashion | Brand Awareness | 088,Brand Awareness,Fashion,2025-04-06,2025-04-24,19,43624.67
+C0091,Influencer | Fashion | Acquisition | 091,Acquisition,Fashion,2025-10-02,2025-10-27,26,274672.53
+C0093,Display | Fashion | Seasonal Promo | 093,Seasonal Promo,Fashion,2025-01-28,2025-03-07,39,90912.23
+C0094,Display | Home & Living | Acquisition | 094,Acquisition,Home & Living,2024-02-16,2024-03-17,31,67507.3
+C0095,Influencer | Beauty | Seasonal Promo | 095,Seasonal Promo,Beauty,2024-11-05,2024-11-19,15,223347.59
+C0096,Social Media | Beauty | Acquisition | 096,Acquisition,Beauty,2025-08-02,2025-09-14,44,217933.92
+C0097,Social Media | Fashion | Retargeting | 097,Retargeting,Fashion,2024-01-14,2024-02-06,24,85491.14
+C0098,Search | Beauty | Retargeting | 098,Retargeting,Beauty,2024-08-16,2024-09-02,18,118522.67
+C0107,Search | Fashion | Acquisition | 107,Acquisition,Fashion,2024-05-21,2024-07-04,45,324250.39
+C0109,Search | Home & Living | Retargeting | 109,Retargeting,Home & Living,2025-05-26,2025-06-12,18,106217.13
+C0110,Influencer | Fashion | Brand Awareness | 110,Brand Awareness,Fashion,2024-08-04,2024-09-15,43,318063.38
+C0113,Search | Fitness | Acquisition | 113,Acquisition,Fitness,2025-05-08,2025-06-09,33,259270.52
+C0118,Search | Fashion | Seasonal Promo | 118,Seasonal Promo,Fashion,2024-05-16,2024-06-18,34,305481.14
+C0119,Search | Fashion | Brand Awareness | 119,Brand Awareness,Fashion,2025-06-14,2025-07-03,20,99279.57
+C0120,Search | Fashion | Acquisition | 120,Acquisition,Fashion,2024-04-09,2024-05-02,24,158738.45
+C0121,Influencer | Home & Living | Retargeting | 121,Retargeting,Home & Living,2025-09-21,2025-11-03,44,415731.49
+C0124,Social Media | Home & Living | Retargeting | 124,Retargeting,Home & Living,2025-11-25,2025-12-28,34,209182.31
+C0127,Influencer | Beauty | Acquisition | 127,Acquisition,Beauty,2025-05-13,2025-06-17,36,306791.81
+C0130,Influencer | Beauty | Acquisition | 130,Acquisition,Beauty,2024-12-20,2025-01-26,38,354678.04
+C0134,Influencer | Beauty | Retargeting | 134,Retargeting,Beauty,2024-10-29,2024-12-12,45,669027.48
+C0135,Email | Electronics | Acquisition | 135,Acquisition,Electronics,2025-02-16,2025-03-30,43,190795.77
+C0136,Social Media | Beauty | Retargeting | 136,Retargeting,Beauty,2025-08-24,2025-09-29,37,169286
+C0138,Email | Home & Living | Brand Awareness | 138,Brand Awareness,Home & Living,2024-03-29,2024-05-04,37,140169.53
+C0140,Search | Electronics | Retargeting | 140,Retargeting,Electronics,2024-09-10,2024-10-09,30,195065.71
+C0142,Social Media | Beauty | Acquisition | 142,Acquisition,Beauty,2025-03-27,2025-05-06,41,203930.69
+C0146,Influencer | Fashion | Acquisition | 146,Acquisition,Fashion,2024-06-09,2024-07-18,40,386916.7
+C0151,Influencer | Home & Living | Retargeting | 151,Retargeting,Home & Living,2024-08-03,2024-09-14,43,359832.78
+C0153,Search | Beauty | Seasonal Promo | 153,Seasonal Promo,Beauty,2025-11-06,2025-12-02,27,418605.03
+C0154,Search | Electronics | Retargeting | 154,Retargeting,Electronics,2025-09-14,2025-10-12,29,146465.79
+C0155,Social Media | Fitness | Acquisition | 155,Acquisition,Fitness,2025-02-13,2025-03-22,38,141570
+C0158,Social Media | Fashion | Acquisition | 158,Acquisition,Fashion,2025-05-29,2025-06-28,31,137069.37
+C0159,Display | Fitness | Seasonal Promo | 159,Seasonal Promo,Fitness,2025-05-12,2025-06-20,40,98202.68
+C0163,Influencer | Fashion | Acquisition | 163,Acquisition,Fashion,2025-09-08,2025-10-04,27,272784.92
+C0165,Social Media | Fashion | Acquisition | 165,Acquisition,Fashion,2025-07-07,2025-08-14,39,193219.83
+C0168,Influencer | Fashion | Brand Awareness | 168,Brand Awareness,Fashion,2025-04-22,2025-05-17,26,267288.31
+C0170,Influencer | Fashion | Acquisition | 170,Acquisition,Fashion,2025-10-28,2025-11-18,22,266672.69
+C0174,Influencer | Fashion | Seasonal Promo | 174,Seasonal Promo,Fashion,2024-12-20,2025-01-25,37,290707.14
+C0175,Search | Home & Living | Acquisition | 175,Acquisition,Home & Living,2024-11-12,2024-12-25,44,414578.5
+C0178,Social Media | Beauty | Acquisition | 178,Acquisition,Beauty,2025-01-30,2025-02-17,19,96857.42
+C0182,Email | Fashion | Product Launch | 182,Product Launch,Fashion,2024-08-07,2024-08-26,20,74232.94
+C0183,Email | Fashion | Seasonal Promo | 183,Seasonal Promo,Fashion,2024-03-12,2024-03-30,19,93149.35
+C0185,Influencer | Home & Living | Acquisition | 185,Acquisition,Home & Living,2025-07-18,2025-08-30,44,396827.85
+C0186,Search | Fashion | Seasonal Promo | 186,Seasonal Promo,Fashion,2024-10-22,2024-11-17,27,381116.82
+C0187,Search | Beauty | Product Launch | 187,Product Launch,Beauty,2025-04-04,2025-05-03,30,170783.19
+C0189,Display | Home & Living | Acquisition | 189,Acquisition,Home & Living,2025-10-01,2025-10-28,28,74427.88
+C0190,Social Media | Fitness | Product Launch | 190,Product Launch,Fitness,2024-11-07,2024-12-18,42,260287.99
+C0197,Social Media | Fitness | Retargeting | 197,Retargeting,Fitness,2025-11-14,2025-12-25,42,264366.85
+C0199,Influencer | Fitness | Acquisition | 199,Acquisition,Fitness,2025-06-24,2025-07-31,38,331578.46
+C0200,Email | Beauty | Product Launch | 200,Product Launch,Beauty,2024-02-18,2024-03-29,41,189043.98
+C0204,Social Media | Electronics | Retargeting | 204,Retargeting,Electronics,2024-02-17,2024-03-27,40,176975.18
+C0208,Social Media | Beauty | Retargeting | 208,Retargeting,Beauty,2024-05-04,2024-06-14,42,153629.72
+C0209,Display | Beauty | Retargeting | 209,Retargeting,Beauty,2025-10-01,2025-11-14,45,135673.25
+C0216,Email | Home & Living | Acquisition | 216,Acquisition,Home & Living,2024-05-25,2024-06-22,29,125651.04
+C0222,Social Media | Beauty | Retargeting | 222,Retargeting,Beauty,2024-07-08,2024-08-13,37,176234.55
+C0223,Display | Home & Living | Seasonal Promo | 223,Seasonal Promo,Home & Living,2024-01-21,2024-02-12,23,66811.9
+C0227,Social Media | Fitness | Brand Awareness | 227,Brand Awareness,Fitness,2025-10-09,2025-10-23,15,52823.43
+C0228,Display | Fashion | Brand Awareness | 228,Brand Awareness,Fashion,2025-11-22,2025-12-21,30,82358.3
+C0229,Influencer | Fitness | Retargeting | 229,Retargeting,Fitness,2024-12-01,2024-12-27,27,320681.83
+C0230,Search | Fashion | Brand Awareness | 230,Brand Awareness,Fashion,2024-01-08,2024-01-25,18,65218.86
+C0231,Email | Home & Living | Seasonal Promo | 231,Seasonal Promo,Home & Living,2025-08-21,2025-09-21,32,129178.96
+C0232,Search | Home & Living | Brand Awareness | 232,Brand Awareness,Home & Living,2025-01-10,2025-02-14,36,121860.48
+C0236,Display | Fashion | Brand Awareness | 236,Brand Awareness,Fashion,2024-11-06,2024-12-08,33,134062.78
+C0239,Social Media | Home & Living | Brand Awareness | 239,Brand Awareness,Home & Living,2025-01-14,2025-02-24,42,192209.42
